@@ -52,6 +52,7 @@ pahro318
 GitHub:
 
 https://github.com/pahro318
+
 ⭐ Like the addon?
 
 If CursorCastFX made your gameplay more enjoyable:
