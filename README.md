@@ -1,29 +1,65 @@
-✨ Initial public release of CursorCastFX!
+✨ CursorCastFX
 
-Features:
+🎯 Modern cursor spell effects for World of Warcraft 3.3.5a (Wrath of the Lich King)
 
-• Beautiful cursor spell effects
+Bring your spell casting to life with beautiful cursor-based visual effects.
+CursorCastFX adds lightweight and highly customizable animations around your mouse cursor whenever you cast abilities.
 
+✨ Features
 
-• Lightweight & optimized
+✅ Multiple cursor effect styles
 
+✅ Lightweight and optimized
 
-• Highly configurable
+✅ Highly customizable
 
+✅ Smooth animations
 
-• Designed for World of Warcraft 3.3.5a
+✅ No external libraries required
 
+✅ Designed specifically for WoW 3.3.5a
 
-• No external libraries required
+📦 Installation
+Download the latest release.
+Extract the CursorCastFX folder.
+Copy it to:
+World of Warcraft/
+└── Interface/
+    └── AddOns/
+Restart the game.
+⚙️ Compatibility
 
+✔ Wrath of the Lich King 3.3.5a
 
+✔ Warmane
 
-Thank you for trying CursorCastFX!
+✔ Other 3.3.5a private servers
 
+❤️ Support the Project
 
+If you enjoy CursorCastFX and want to support future development:
 
-⭐ If you enjoy the addon, please consider starring the repository.
+USDT (TRC20)
 
+TBUEo5TBGR9Uxpc4P65KBUAjeNXSg62aat
 
+Every donation helps improve the addon.
 
-💡 Feature requests and bug reports are always welcome.
+👨‍💻 Author
+
+pahro318
+
+GitHub:
+
+https://github.com/pahro318
+⭐ Like the addon?
+
+If CursorCastFX made your gameplay more enjoyable:
+
+⭐ Star the repository
+
+🐞 Report bugs
+
+💡 Suggest new features
+
+❤️ Share it with other players
